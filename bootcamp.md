@@ -1,7 +1,7 @@
 # 🧠 Bootcamp GitHub Avancé – Maîtriser GitHub comme un Bright
 
 ---
-
+  ##Billy boy participated in this wonderful bootcamp
 ## Prérequis
 
 * Maîtriser les commandes Git de base (clone, commit, merge, rebase)
